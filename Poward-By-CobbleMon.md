@@ -8,7 +8,7 @@ The goal of Cobblemon is to be the Pokémon mod for everyone, and to integrate m
 
  
 
-Features (so far!):
+#Features (so far!):
 
 Capturing Pokémon to expand your team, battle wild Pokémon to gain experience, level up to unlock new moves, and evolve your Pokémon. Craft a PC and healer as soon as you can!
 All Pokémon from generation 1, including their later-generation evolutions and pre-evolutions. Some Pokémon from other generations are in the mod as well.
@@ -25,7 +25,7 @@ Full support for custom variations and fakemon using data packs and resource pac
 Support for both Fabric and Forge - though we recommend playing on Fabric because it's faster and better on performance!
 
 
-Installation
+#Installation
 
  Fabric:
 
@@ -94,7 +94,6 @@ Fight in Pokémon battles powered by Pokémon Showdown!
 
 
 Capture Pokémon by throwing Poké Balls both in and out of battles!
-
 
 
 
