@@ -1,0 +1,35 @@
+{
+  "name": "FlameMon",
+  "resolution": {
+    "width": 800,
+    "height": 400,
+    "fullscreen": false
+  },
+  "minMemory": 0,
+  "maxMemory": 0,
+  "url": "",
+  "icon": "https://i.ytimg.com/vi/hI3tuW3tk-o/maxresdefault.jpg",
+  "runtime": {
+    "minecraft": "1.19.2",
+    "forge": "",
+    "liteloader": "",
+    "fabricLoader": "0.14.21",
+    "yarn": "",
+    "optifine": "",
+    "quiltLoader": ""
+  },
+  "java": "",
+  "version": "",
+  "server": null,
+  "author": "Aislx",
+  "description": "This ModPack Have more Featurs in it",
+  "lastAccessDate": 1689421593080,
+  "creationDate": 1689419575765,
+  "modpackVersion": "",
+  "fileApi": "",
+  "tags": [],
+  "assignMemory": false,
+  "showLog": false,
+  "lastPlayedDate": 1689422922308,
+  "playtime": 360235
+}
